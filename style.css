@@ -40,3 +40,10 @@ li a:hover {
 a {
 	text-decoration: none;
 }
+
+.bordered {
+	margin: 20px;
+	border: 2px solid black;
+	background-color: grey;
+	color; green;
+}
