@@ -42,8 +42,17 @@ a {
 }
 
 .bordered {
+	display: flex;
 	margin: 20px;
 	border: 2px solid black;
 	background-color: grey;
 	color; green;
+}
+
+#leftText {
+	flex: 0 0 65%;
+}
+
+#rightPhoto {
+	flex: 1;
 }
