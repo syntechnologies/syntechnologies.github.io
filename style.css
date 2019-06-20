@@ -1,8 +1,41 @@
 body {
 	margin: 0px;
-	background-image: url("shaqtus.png")
+	background-color: purple;
 }
 
 .test {
 	color: red;
+}
+
+.navBar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #333333;
+	overflow: hidden;
+	position: sticky
+	top: 0;
+	border: 1px solid black;
+	
+}
+
+li {
+	float: left;
+	font-size: 24px;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none:
+}
+
+li a:hover {
+	background-color: #4CAF50;
+}
+
+a {
+	text-decoration: none;
 }
