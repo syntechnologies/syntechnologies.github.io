@@ -19,3 +19,13 @@
 - Strong 3D development background
 - Strong mathematics and computational geometry skills
 - Experience working on multiple 3D game/rendering engines
+
+## Natalie Yelland-Hall
+### Ideal Job Title:
+- IT Security Manager
+### Requirements:
+- Degree in INformation Technology, software engineering/System managment
+- Extensive experience in developing and operating Information Security Management Systems
+- Good understanding of public and private cloud security
+- Understanding of vulnerability assessment products 
+- Excellent written and verbal communication skills
