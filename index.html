@@ -1,26 +1,29 @@
 <!DOCTYPE HTML>
-<html lang=en-au>
+<html lang="en-au">
 <head>
 <link rel="stylesheet" href="style.css">
-<title>We're a Team Yo!</title>
+<title>Test Page</title>
 </head>
 <body>
-<h1 class="test">WE ARE A TEAM YO!</h1>
-<ul class="navBar">
-<li><a class="active" href="index.html">Home</a></li>
-<li><a href="about.html">About</a></li>
-<li><a href="contact.html">Contact</a></li>
-<li style="float:right"><a href="reference.html">Reference</a></li>
-</ul>
-<div class="bordered">
-<div id="leftText">
-<p>This should be some text with a border around it <br>
-Hopefully it works
-</p>
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
 </div>
-<div id="rightPhoto">
-<img id="testimg" src="shaqtus.png" alt="SHAQTUS">
+
+<span onclick="openNav()">open</span>
+
+<div id="main">
+  ...
 </div>
-</div>
-</body>
-</html>
