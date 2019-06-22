@@ -47,3 +47,54 @@ li {
 li:last-child {
 	border-right: none;
 }
+
+.content {
+	padding:20px;
+}
+#aboutHeading {
+}
+
+.teamBoxLeft {
+	position: fixed:
+	left: 20px;
+	width: 65%;
+	border: 4 px;
+	border-style: solid;
+	border-color: black;
+	background-color:white;
+}
+
+#sometext {
+	display: flex;
+	margin:20px;
+}
+
+#textLeft {
+	flex: 0 0 80%;
+	margin-right:10px;
+}
+
+#rightImg {
+	flex: 1;
+}
+
+
+.teamBoxRight {
+	position: fixed;
+	right: 20px;
+	width: 65%;
+	border: 4 px;
+	border-style: solid;
+	border-color: black;
+	background-color:white;
+}
+
+#textRight {
+	flex: 0 0 75%;
+	margin:10px;
+}
+
+#leftImg {
+	flex: 1;
+	margin:20px;
+}
