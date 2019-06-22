@@ -39,3 +39,17 @@
 - 4% Extraversion
 - 60% Agreeableness
 - 42% Neuroticism
+
+## Michael Seach
+### Myers Briggs: 
+- ESFP-A
+### Learning Style: 
+- 45% Auditory
+- 45% Visual
+- 10% Tactile
+### Big Five: 
+- 67% Openness
+- 54% Conscientiousness
+- 48% Extraversion
+- 56% Agreeableness
+- 75% Neuroticism
