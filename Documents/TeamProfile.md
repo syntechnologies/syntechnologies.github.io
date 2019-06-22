@@ -18,7 +18,9 @@
 ### Myers Briggs:
 - ISFJ-A/ISFJ-T
 ### Learning Style:
-- Visual
+- Auditory: 15%
+- Visual: 35%
+- Tactile: 50%
 ### Big Five:
 - 3% Openness
 - 80% Conscientiousness
