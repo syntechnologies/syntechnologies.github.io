@@ -55,3 +55,18 @@
 - 48% Extraversion
 - 56% Agreeableness
 - 75% Neuroticism
+
+## Bobbie Cole
+### Myers Briggs:
+- ENFP-A
+### Learning Style:
+- 36% Visual
+- 36% Tactile
+28% Auditory
+### Big Five: 
+- 62% Openness
+- 45% Conscientiousness
+- 95% Extraversion
+- 27% Agreeableness
+- 10% Neuroticism
+
