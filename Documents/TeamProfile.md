@@ -76,3 +76,17 @@
 - 27% Agreeableness
 - 10% Neuroticism
 
+## Phuong Quach
+### Myers Briggs: 
+- ISTP-T
+### Learning Style: 
+- 30% Auditory
+- 45% Visual
+- 25% Tactile
+### Big Five: 
+- 54% Openness
+- 37% Conscientiousness
+- 44% Extraversion
+- 48% Agreeableness
+- 88% Neuroticism
+
