@@ -31,6 +31,12 @@
 ## Natalie Yelland-Hall
 ### Myers Briggs: 
 - ISJF-T
+- 96% Introverted 
+- 51% Observant
+- 65% Feeling
+– 58% Judging
+– 53% Assertive
+
 ### Learning Style: 
 - 40% Auditory
 - 55% Visual
