@@ -1,16 +1,16 @@
-#Project Idea: Chef Mate! App
+Project Idea: Chef Mate! App
 
-##Overview
+Overview
 
 "What's for dinner?"
 
 Our lives have become easier from the advancement of technology. We now have the ability to access information at our fingertips, make tasks easier and complete them in a shorter timeframe. For my first IT project, I would like to design a recipe app that you can download onto any smartphone or tablet for those that are interested to cook at home. Like any recipe app out there, users will have access to thousands of recipes and have the option to narrow down their search by applying filters. But what makes my app different and special is the user can take a photo of the contents in their fridge, freezer and pantry, then select their preferences, and the app will identify what ingredients they have on hand and match the user with recipes available, thus creating value.
 
-##Motivation
+Motivation
 
 For those interested in cooking at home, how many of us go do our weekly groceries but end up wasting the ingredients and have to throw them out? We have the best intentions but life gets in the way and we end up eating out, getting takeaway, grabbing fast food or ordering Uber Eats. In addition, all the other recipe apps do not take into account what ingredients you do or don’t have at home. I believe this app and the enhanced features will provide a solution for those who are hobbyist or those who are conscious of their finances, environment and health by making cooking simpler which also helps them save money and decrease food wastage.
 
-##Description
+Description
 
 My app will be visually stunning, elegant and extremely user friendly. My colour scheme will be bold and bright as I personally associate bright colours with appetite and it triggers a happy emotion. It will contain thousands of photos of mouth watering pictures of food and short video guides rather than lengthy text descriptions.
 
@@ -28,14 +28,14 @@ Finally, there will be a social aspect where you can share your cooking experien
 
 As you can see, my app will incorporate all the necessary features currently on the market but has gone through innovation to include additional features to make it unique and exceed expectations. I want this app to be the go to recipe app for every cook, no matter what your skill level is.
 
-##Tools & Technologies
+Tools & Technologies
 
 The app will need to be compatible with Android and Apple phones and tablets. To design the app, I will first come out with a design on pen and paper to visualise what the interface will look like before using a wireframe tool for the skeletal framework and map out the flow. Once the design and functionalities have been mapped out, I will need to choose a programming language to code my app and a mobile app building platform to create it. At this stage I have not decided what programming language to use. The app will obviously be refined through continuous testing and feedback before being release live to the public.
 
-##Skills Required
+Skills Required
 
 A strong knowledge of multiple programming languages is definitely required, especially of swift and java considering they are the official languages of Apple and Android respectively. Additionally, quality user interface design skills focusing on user experience and cross platform knowledge will be extremely beneficial. Backend computing knowledge will also be required regarding security, memory allocation, database management and hardware integration. Finally, other skills and knowledge relating to designing, content writing, Q&A and testing, marketing and agile methodologies are applicable. As such, communication skills are important as well. Fortunately, these skills are obtainable if I fill my team with the right people.
 
-##Outcome
+Outcome
 
 The main selling point is the app allows users to quickly take a photo of what they have in the kitchen and the app retrieves all the recipes available with the ingredients on hand. If this project becomes successful, it will become the go to app for recipes and food community as the app includes everything you need and more all in one centralised location. This project will hopefully assist households to save time, money and decrease food wastage. It may even ignite a foodie passion among some of us. By spreading knowledge of affordable cooking at home, hopefully this encourages people to be healthier because they are more aware of their food, body and time
