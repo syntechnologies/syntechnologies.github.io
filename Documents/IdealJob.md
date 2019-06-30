@@ -29,3 +29,15 @@
 - Good understanding of public and private cloud security
 - Understanding of vulnerability assessment products 
 - Excellent written and verbal communication skills
+
+## Phuong Quach 
+### Ideal Job Title: 
+- VR Developer
+### Requirements: 
+- Experience in the development of engaging and immersive VR
+- Experience in the development of interactive 3D content
+- Expertise in Unity IDE, C#, Shaders
+- Experience in system development through Object Oriented Methodologies
+- Experience with Steam SDK/Oculus/OpenVR SDK
+- Knowledge of CTAA Antialiasing
+- Knowledge of amplify occlusion, amplify bloom, paint in 3D, newton VR, HSV picker
