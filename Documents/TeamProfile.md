@@ -3,6 +3,12 @@
 ## Jae Sung Oh
 ### Myers Briggs: 
 - INTJ/INFJ
+- 78% Introverted
+- 77% Intuitive 
+- 58% Feeling 
+- 76% Judging 
+- 63% Turbulent
+
 ### Learning Style: 
 - 55% Auditory
 - 25% Visual
