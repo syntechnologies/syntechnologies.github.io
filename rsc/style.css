@@ -100,3 +100,10 @@ div.desc {
   overflow: hidden;
   background-color: #f1f1f1;
 }
+
+.personalityBox {
+	display: flex;
+	margin:20px;
+}
+
+
