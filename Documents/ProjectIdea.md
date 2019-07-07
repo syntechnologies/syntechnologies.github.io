@@ -4,7 +4,7 @@ Overview
 
 "What's for dinner?"
 
-Our lives have become easier from the advancement of technology. We now have the ability to access information at our fingertips, make tasks easier and complete them in a shorter timeframe. For our IT project, we would like to design a recipe app for those that are interested to cook at home that you can download onto any smartphone or tablet. Like any recipe app out there, users will have access to thousands of recipes and have the option to narrow down their search by applying filters. But what makes our app different is the user can take a photo of the contents in their fridge, freezer and/or pantry, then select their preferences, and the app will identify what ingredients they have on hand and match the user with recipes available, thus creating value.
+Our lives have become easier from the advancement of technology. We now have the ability to access information at our fingertips, make tasks easier and complete them in a shorter timeframe. At SynTechnologies, the user experience comes first and Chef Mate! is designed to be the innovated recipe app for those that are interested to cook at home. The app can be download onto any smartphone or tablet and like any recipe app out there, users will have access to thousands of recipes and have the option to narrow down their search by applying filters. But what makes Chef Mate! different is the user can take a photos of the contents in their fridge, freezer and/or pantry, then select their preferences, and the app will identify what ingredients they have on hand and match the user with recipes available, thus creating value.
 
 Motivation
 
