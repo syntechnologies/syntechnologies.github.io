@@ -1,10 +1,10 @@
-Project Idea: Chef Mate! App
+Project Idea: Chef Mate! Receipe App 
 
 Overview
 
 "What's for dinner?"
 
-Our lives have become easier from the advancement of technology. We now have the ability to access information at our fingertips, make tasks easier and complete them in a shorter timeframe. For our IT project, we would like to design a recipe app for those that are interested to cook at home that you can download onto any smartphone or tablet. Like any recipe app out there, users will have access to thousands of recipes and have the option to narrow down their search by applying filters. But what makes our app different and special is the user can take a photo of the contents in their fridge, freezer and pantry, then select their preferences, and the app will identify what ingredients they have on hand and match the user with recipes available, thus creating value.
+Our lives have become easier from the advancement of technology. We now have the ability to access information at our fingertips, make tasks easier and complete them in a shorter timeframe. For our IT project, we would like to design a recipe app for those that are interested to cook at home that you can download onto any smartphone or tablet. Like any recipe app out there, users will have access to thousands of recipes and have the option to narrow down their search by applying filters. But what makes our app different is the user can take a photo of the contents in their fridge, freezer and/or pantry, then select their preferences, and the app will identify what ingredients they have on hand and match the user with recipes available, thus creating value.
 
 Motivation
 
@@ -36,8 +36,8 @@ The app will need to be compatible with Android and Apple phones and tablets. To
 
 Skills Required
 
-A strong knowledge of multiple programming languages is definitely required, especially of swift and java considering they are the official languages of Apple and Android respectively. Additionally, quality user interface design skills focusing on user experience and cross platform knowledge will be extremely beneficial. Backend computing knowledge will also be required regarding security, memory allocation, database management and hardware integration. Finally, other skills and knowledge relating to designing, content writing, Q&A and testing, marketing and agile methodologies are applicable. As such, communication skills are important as well. Fortunately, these skills are obtainable if my team is built with the right people.
+A strong knowledge of multiple programming languages is definitely required, especially of swift and java considering they are the official languages of Apple and Android respectively. Additionally, quality user interface design skills focusing on user experience and cross platform knowledge will be extremely beneficial. Backend computing knowledge will also be required regarding security, memory allocation, database management and hardware integration. Finally, other skills and knowledge relating to designing, content writing, Q&A and testing, marketing and agile methodologies are applicable. As such, communication skills are important as well. Fortunately, with the right team these skills are obtainable.
 
 Outcome
 
-The main selling point is the app allows users to quickly take a photo of what they have in the kitchen and the app retrieves all the recipes available with the ingredients on hand. If this project becomes successful, it will become the go to app for recipes and food community as the app includes everything you need and more all in one centralised location. This project will hopefully assist households to save time, money and decrease food wastage. It may even ignite a foodie passion among some of us. By spreading knowledge of affordable cooking at home, hopefully this encourages people to be healthier because they are more aware of their food, body and time
+If this project becomes successful, it will become the go to app for recipes and food community as the app is practical and includes everything you need and more all in one centralised location. It will also provide a steady revenue stream for SynTechnologies which can be reinvested for future projects or further expand this project. This project will hopefully assist households to save time, money and decrease food wastage. It may even ignite a foodie passion among some of us. By spreading knowledge of affordable cooking at home, hopefully this encourages people to be healthier because they are more aware of their food, body and time.
